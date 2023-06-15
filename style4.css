@@ -1,0 +1,12 @@
+.title{
+	
+	font-size: 20px;
+	font-weight:900 ;
+	line-height: 25px;
+	color: blue;
+}
+
+.title img{
+	padding-left: 80px;
+	width: 140px;
+}
